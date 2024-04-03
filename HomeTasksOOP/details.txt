@@ -1,0 +1,9 @@
+Pride and Prejudice,Jane Austen,12.95,6
+War and Peace,Leo Tolstoy,19.8,3
+To Kill a Mockingbird,Harper Lee,18.5,3
+The Catcher in the Rye,J.D. Salinger,17.0,4
+The Great Gatsby,F. Scott Fitzgerald,20.99,5
+Crime and Punishment,Fyodor Dostoevsky,14.0,5
+One Hundred Years of Solitude,Gabriel Garcia Marquez,20.0,3
+Ulysses,James Joyce,23.9,2
+New Book,unknown,7.0,78
