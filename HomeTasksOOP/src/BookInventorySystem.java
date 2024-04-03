@@ -14,7 +14,7 @@ class BookNotFoundException extends Exception {
 public class BookInventorySystem {
     private static HashMap<String, Book> inventory = new HashMap<>();
     private static Scanner scanner = new Scanner(System.in);
-    private static final String filePath = "details.txt"; // Adjust the file path as needed
+    private static final String filePath = "C:\\Users\\Ghost Hunter\\eclipse-workspace1\\HomeTasksOOP\\details.txt";
 
     public static void main(String[] args) {
         loadInventoryFromFile();
